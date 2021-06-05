@@ -2,7 +2,7 @@
   - Detecting Hate Tweets or offensive language on Twitter using Machine learning methods like Bag or Words of TFIDF. Find out which classification algorithm suits best for the       same.
   - this task was performed as a part of an academic case study on NLP.
   - performed analysis on hate tweets and offensive tweets.
-  - the dataset is provided as *climate.csv* file.
+  - the dataset is provided as *labeled_csv* file.
 ## A gist of what i did...
   - imported the necessary libraries.
   - read the dataset.
