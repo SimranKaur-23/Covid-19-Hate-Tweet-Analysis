@@ -1,4 +1,5 @@
 # Covid-19-Hate-Tweet-Analysis
+  - Detecting Hate Tweets or offensive language on Twitter using Machine learning methods like Bag or Words of TFIDF. Find out which classification algorithm suits best for the       same.
   - this task was performed as a part of an academic case study on NLP.
   - performed analysis on hate tweets and offensive tweets.
   - the dataset is provided as *climate.csv* file.
